@@ -20,3 +20,18 @@
 .App-link {
   color: #09d3ac;
 }
+
+.remove-button {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.edit-button {
+  margin-left: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+
